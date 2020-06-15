@@ -54,7 +54,7 @@ The project is divided into following modules:
 * YOLOv3 weights
 
 #### Installing
-Clone this Git repository using the following command `https://github.com/VivekBadani/Navigation-and-Object-Avoidance-System.git`
+Clone this Git repository using the following command `git clone https://github.com/VivekBadani/Navigation-and-Object-Avoidance-System.git`
 
 Download the yolov3 weights from this [link](https://pjreddie.com/media/files/yolov3.weights) and move the downloaded weight to object-detection/model directory.
 
